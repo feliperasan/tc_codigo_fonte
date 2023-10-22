@@ -25,6 +25,7 @@ Este estudo tem como objetivo realizar uma análise exploratória dos dados refe
 
 ## Dados do INPI
 Links importantes para acompanhar a leitura ou realizar o experimento do trabalho.
+- O trabalho deu origem ao artigo que pode ser acompanhado em: http://conjecturas.org/index.php/edicoes/article/view/540
 - INPI:https://www.gov.br/inpi/pt-br/acesso-a-informacao/dados-abertos/arquivos/documentos/pedidos-de-registro-de-programas-de-computador
 - PBDA 2018: https://dados.gov.br/dataset/bw-pc-2018
 - PBDA 2019: https://dados.gov.br/dataset/bw-pc-2019
